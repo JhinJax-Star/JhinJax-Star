@@ -15,6 +15,7 @@ That is all.
 * [Individual recreation program](https://github.com/JhinJax-Star/Individual-recreation-program)
 * [ARL](https://github.com/JhinJax-Star/ARL)
 * [Something about OSCP](https://github.com/JhinJax-Star/OSCP-something)
+* [A automate script for PWN](https://github.com/JhinJax-Star/linWinPwn)
 
 If I find new and funny thing I will push in this place laterily.
 <!--
