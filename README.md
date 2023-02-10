@@ -18,6 +18,8 @@ That is all.
 * [A automate script for PWN](https://github.com/JhinJax-Star/linWinPwn)
 
 If I find new and funny thing I will push in this place laterily.
+
+[And here is a chinese blog records my some hacking notes, welcome](https://www.cnblogs.com/jhinjax)
 <!--
 **JhinJax-Star/JhinJax-Star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
